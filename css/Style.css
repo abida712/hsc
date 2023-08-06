@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Work Sans', sans-serif;
+    background-color: aqua;
+}
+h1{
+    font-weight: 700;
+    color: rgba(200, 212, 20, 0.87);
+    margin-bottom:50px;
+    text-align: center;
+}
+.page1{
+    text-align: center;
+        width: 100%;
+        background-size: cover;
+        margin-top: 30px;
+}
+img{
+    height: 270px;
+    width: 380px;
+
+}
+.btn-d{
+    width: 100%;
+    margin-top: 50px;
+}
+.ws-btn{
+    width: 100%;
+    font-size: 30px;
+    font-family: 'Source Sans Pro', sans-serif;
+    border: none;
+    border-radius: 5px;
+    padding: 6px 18px;
+    margin-top: 50px;
+    background: #0ce617;
+    text-decoration: none;
+    color: rgb(18, 20, 16);
+    text-align: center;
+    cursor: pointer;
+}
